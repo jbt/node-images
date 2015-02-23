@@ -1,1 +1,0 @@
-/usr/bin/gcc  -O3 -DNDEBUG    CMakeFiles/tjunittest.dir/tjunittest.c.o CMakeFiles/tjunittest.dir/tjutil.c.o  -o tjunittest -rdynamic libturbojpeg.so -Wl,-rpath,/home/james/Development/node-images/gyp/third-party/libjpeg-turbo 

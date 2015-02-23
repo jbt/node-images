@@ -1,1 +1,0 @@
-/usr/bin/gcc  -O3 -DNDEBUG    CMakeFiles/wrjpgcom.dir/wrjpgcom.c.o  -o wrjpgcom -rdynamic 
