@@ -4,16 +4,16 @@
             'variables': {
                 'THIRD_PATH%': 'D:/dev/node/node-images/third',
                 'with_png%': 'true',
-                'with_jpeg%': 'true',
-                'with_gif%': 'true',
+                'with_jpeg%': 'false',
+                'with_gif%': 'false',
                 'with_bmp%': 'false',
                 'with_raw%': 'true'
             }
         }, {
             'variables': {
                 'with_png%': 'true',
-                'with_jpeg%': 'true',
-                'with_gif%': 'true',
+                'with_jpeg%': 'false',
+                'with_gif%': 'fakse',
                 'with_bmp%': 'false',
                 'with_raw%': 'true',
             }

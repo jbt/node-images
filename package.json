@@ -23,8 +23,7 @@
     ]
   },
   "scripts": {
-    "test": "node test.js",
-    "install": "echo \"Hello, World.\""
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
